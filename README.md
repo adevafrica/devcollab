@@ -154,7 +154,7 @@ devcollab/
 
 ```bash
 # Clone repo
-git clone https://github.com/your-org/devcollab.git
+git clone https://github.com/adevafrica/devcollab.git
 cd devcollab
 
 # Install deps
